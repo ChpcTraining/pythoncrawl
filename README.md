@@ -23,13 +23,25 @@ pip install pythoncrawl-1.3-py3-none-any.whl
 Processing ...tmp\pythoncrawl\pythoncrawl-1.3-py3-none-any.whl
 Installing collected packages: pythoncrawl
 Successfully installed pythoncrawl-1.3
-(base)
-tmp/pythoncrawl (main) $ pythoncrawl
+```
+
+Input:
+
+```
+pythoncrawl
+```
+
+or if "command not found" try:
+
+```
+~/.local/bin/pythoncrawl
 ```
 
 You should see:
 
 ```
+tmp/pythoncrawl (main) $ pythoncrawl
+
 ######                                       #####
 #     # #   # ##### #    #  ####  #    #    #     # #####    ##   #    # #
 #     #  # #    #   #    # #    # ##   #    #       #    #  #  #  #    # #
